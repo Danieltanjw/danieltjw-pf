@@ -1,0 +1,30 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Base theme with significantly darker cream tones */
+:root {
+  --ifm-color-primary: #d6b8a1; /* Much darker cream as the main color */
+  --ifm-color-primary-dark: #bda18c; /* Deeper, muted tone */
+  --ifm-color-primary-darker: #a38775; 
+  --ifm-color-primary-darkest: #8a6f60; /* Deep, earthy tone */
+  --ifm-color-primary-light: #e4c9b5; /* Slightly lighter, muted cream */
+  --ifm-color-primary-lighter: #f1ded1; /* Soft accent cream */
+  --ifm-color-primary-lightest: #f7ede7; /* Light but not white */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(189, 161, 140, 0.2); /* Highlight with a darker warm tone */
+}
+
+/* Dark mode with a softer cream theme */
+[data-theme='dark'] {
+  --ifm-color-primary: #f0d9c1; /* Rich cream for dark mode */
+  --ifm-color-primary-dark: #e6c7a5; 
+  --ifm-color-primary-darker: #d9ad87;
+  --ifm-color-primary-darkest: #c99765;
+  --ifm-color-primary-light: #f7e5d3; /* Light cream for accents */
+  --ifm-color-primary-lighter: #faeddf;
+  --ifm-color-primary-lightest: #000000;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 244, 230, 0.2); /* Slightly brighter highlight for dark mode */
+}
