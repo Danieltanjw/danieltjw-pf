@@ -25,6 +25,6 @@
   --ifm-color-primary-darkest: #c99765;
   --ifm-color-primary-light: #f7e5d3; /* Light cream for accents */
   --ifm-color-primary-lighter: #faeddf;
-  --ifm-color-primary-lightest: #000000;
+  --ifm-color-primary-lightest: #fff6f0;
   --docusaurus-highlighted-code-line-bg: rgba(255, 244, 230, 0.2); /* Slightly brighter highlight for dark mode */
 }

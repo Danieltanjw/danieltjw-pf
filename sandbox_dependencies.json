@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "@uiw/react-codemirror": "^4.0.0",
+        "@codemirror/lang-python": "^6.0.1",
+        "@codemirror/lang-java": "^6.0.1",
+        "@codemirror/lang-cpp": "^6.0.1",
+        "@codemirror/theme-one-dark": "^6.0.0",
+        "axios": "^1.4.0",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "@docusaurus/core": "^2.4.0",
+        "@docusaurus/preset-classic": "^2.4.0"
+    }
+}
