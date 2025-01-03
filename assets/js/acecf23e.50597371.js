@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdanieltjw_pf=self.webpackChunkdanieltjw_pf||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/danieltjw-pf/blog","blogTitle":"Blog","authorsListPath":"/danieltjw-pf/blog/authors"}')}}]);
