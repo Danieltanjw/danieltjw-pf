@@ -79,7 +79,7 @@ const config = {
           src: 'img/android-chrome-192x192.png',
         },
         items: [
-          {to: '/Portfolio', label: 'Portfolio', position: 'left'},
+          {to: '/portfolio', label: 'Portfolio', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -102,10 +102,6 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
-              },
-              {
-                label: 'Projects',
-                to: '/proj/intro',
               },
             ],
           },
