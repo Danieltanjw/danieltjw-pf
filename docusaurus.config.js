@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Danieltjw', // Usually your GitHub org/user name.
+  organizationName: 'Danieltanjw', // Usually your GitHub org/user name.
   projectName: 'danieltjw-pf', // Usually your repo name.
 
   customFields: {
