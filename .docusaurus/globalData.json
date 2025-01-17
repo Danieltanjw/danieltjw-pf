@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/danieltjw-pf/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/danieltjw-pf/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Basic_Programming_Languages/index",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Java_Programming_Notes",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Java_Programming_Notes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/Data_Structures",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Data_Structures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/index",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/Python_Testing_Documentation",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python_Testing_Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation",
+              "path": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/danieltjw-pf/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Programming_Sandbox_Documentation",
+              "path": "/danieltjw-pf/docs/Programming_Sandbox_Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Project_Documentation_Guide",
+              "path": "/danieltjw-pf/docs/Project_Documentation_Guide",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/danieltjw-pf/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

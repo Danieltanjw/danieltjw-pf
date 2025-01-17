@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/danieltjw-pf/portfolio",
+  "source": "@site/src/pages/portfolio.md",
+  "title": "Daniel's Portfolio (To be updated)",
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "unlisted": false
+}

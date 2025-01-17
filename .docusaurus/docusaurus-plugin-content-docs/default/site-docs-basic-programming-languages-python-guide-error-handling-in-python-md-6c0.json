@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python",
+  "title": "Error Handling",
+  "description": "Error handling is an essential part of programming to ensure that your application can gracefully recover from unexpected events or incorrect input. In Python, errors are managed using exceptions, which allow you to handle and debug issues effectively.",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Structures",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Data_Structures"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python_Testing_Documentation"
+  }
+}

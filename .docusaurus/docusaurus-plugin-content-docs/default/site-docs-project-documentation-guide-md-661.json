@@ -1,0 +1,20 @@
+{
+  "id": "Project_Documentation_Guide",
+  "title": "Project Documentation",
+  "description": "Good project documentation is essential for effective communication, team collaboration, and future maintainability. Below is a guide on documenting your projects effectively.",
+  "source": "@site/docs/Project_Documentation_Guide.md",
+  "sourceDirName": ".",
+  "slug": "/Project_Documentation_Guide",
+  "permalink": "/danieltjw-pf/docs/Project_Documentation_Guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Project_Documentation_Guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Implementing a Programming Sandbox in Docusaurus",
+    "permalink": "/danieltjw-pf/docs/Programming_Sandbox_Documentation"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation",
+  "title": "Vectorized Algorithms",
+  "description": "Vectorized algorithms are computational techniques designed to operate on entire arrays or matrices in a single step, rather than iterating through individual elements. This approach leverages modern hardware features like SIMD (Single Instruction Multiple Data) and optimized libraries, resulting in faster computations compared to traditional iterative methods.",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sorting Algorithms",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation"
+  },
+  "next": {
+    "title": "Implementing a Programming Sandbox in Docusaurus",
+    "permalink": "/danieltjw-pf/docs/Programming_Sandbox_Documentation"
+  }
+}

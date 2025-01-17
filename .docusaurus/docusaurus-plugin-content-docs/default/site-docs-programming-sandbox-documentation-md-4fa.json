@@ -1,0 +1,24 @@
+{
+  "id": "Programming_Sandbox_Documentation",
+  "title": "Implementing a Programming Sandbox in Docusaurus",
+  "description": "This documentation provides a step-by-step guide to creating a programming sandbox in Docusaurus. The sandbox allows users to write and execute code in Python, C++, and Java using the Judge0 API.",
+  "source": "@site/docs/Programming_Sandbox_Documentation.md",
+  "sourceDirName": ".",
+  "slug": "/Programming_Sandbox_Documentation",
+  "permalink": "/danieltjw-pf/docs/Programming_Sandbox_Documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Programming_Sandbox_Documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vectorized Algorithms",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation"
+  },
+  "next": {
+    "title": "Project Documentation",
+    "permalink": "/danieltjw-pf/docs/Project_Documentation_Guide"
+  }
+}

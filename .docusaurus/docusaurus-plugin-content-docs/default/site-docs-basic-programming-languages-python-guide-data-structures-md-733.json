@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/Data_Structures",
+  "title": "Data Structures",
+  "description": "Data structures are fundamental components in any programming language. Python provides a wide range of built-in data structures that help in storing and managing data efficiently. Here’s a detailed explanation of Python's most important data structures.",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/Data_Structures.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/Data_Structures",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Data_Structures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Data_Structures.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Notes",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/"
+  },
+  "next": {
+    "title": "Error Handling",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/index",
+  "title": "Python Notes",
+  "description": "Python is a versatile, high-level programming language known for its simplicity and vast ecosystem. Below is a comprehensive guide to Python, covering core concepts, sorting algorithms, vectorized algorithms, and other essential aspects.",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/index.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Java Notes",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Java_Programming_Notes"
+  },
+  "next": {
+    "title": "Data Structures",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Data_Structures"
+  }
+}

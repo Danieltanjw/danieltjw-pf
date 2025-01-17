@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation",
+  "title": "Sorting Algorithms",
+  "description": "Sorting is a fundamental concept in computer science used to arrange elements of a list or array in a particular order (ascending or descending). Below, we explore various sorting algorithms, their working, complexity, and when to use them.",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Sorting_Algorithms_Documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python_Testing_Documentation"
+  },
+  "next": {
+    "title": "Vectorized Algorithms",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation"
+  }
+}
