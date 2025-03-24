@@ -1,0 +1,24 @@
+{
+  "id": "Interview_Preperation/Python_Algorithms_Notes",
+  "title": "Python Notes on Algorithms",
+  "description": "Breadth-First Search (BFS)",
+  "source": "@site/docs/Interview_Preperation/Python_Algorithms_Notes.md",
+  "sourceDirName": "Interview_Preperation",
+  "slug": "/Interview_Preperation/Python_Algorithms_Notes",
+  "permalink": "/danieltjw-pf/docs/Interview_Preperation/Python_Algorithms_Notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Interview_Preperation/Python_Algorithms_Notes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Leetcode Notes",
+    "permalink": "/danieltjw-pf/docs/Interview_Preperation/"
+  },
+  "next": {
+    "title": "LeetCode Notes",
+    "permalink": "/danieltjw-pf/docs/Interview_Preperation/Things_To_Remember"
+  }
+}

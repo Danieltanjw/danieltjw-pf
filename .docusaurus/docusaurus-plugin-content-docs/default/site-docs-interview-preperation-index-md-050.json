@@ -1,0 +1,26 @@
+{
+  "id": "Interview_Preperation/index",
+  "title": "Introduction",
+  "description": "This section will include the notes for Leetcode questions that I have completed.",
+  "source": "@site/docs/Interview_Preperation/index.md",
+  "sourceDirName": "Interview_Preperation",
+  "slug": "/Interview_Preperation/",
+  "permalink": "/danieltjw-pf/docs/Interview_Preperation/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Interview_Preperation/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Leetcode Notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vectorized Algorithms",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation"
+  },
+  "next": {
+    "title": "Python Notes on Algorithms",
+    "permalink": "/danieltjw-pf/docs/Interview_Preperation/Python_Algorithms_Notes"
+  }
+}

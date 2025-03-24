@@ -1,0 +1,24 @@
+{
+  "id": "Basic_Programming_Languages/Python_Guide/Python Algorithms Notes",
+  "title": "Python Notes on Algorithms",
+  "description": "Breadth-First Search (BFS)",
+  "source": "@site/docs/Basic_Programming_Languages/Python_Guide/Python Algorithms Notes.md",
+  "sourceDirName": "Basic_Programming_Languages/Python_Guide",
+  "slug": "/Basic_Programming_Languages/Python_Guide/Python Algorithms Notes",
+  "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python Algorithms Notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python Algorithms Notes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Error Handling",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Error_Handling_in_Python"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Python_Testing_Documentation"
+  }
+}

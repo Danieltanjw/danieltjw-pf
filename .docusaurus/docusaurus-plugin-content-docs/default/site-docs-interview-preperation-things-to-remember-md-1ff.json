@@ -1,0 +1,24 @@
+{
+  "id": "Interview_Preperation/Things_To_Remember",
+  "title": "LeetCode Notes",
+  "description": "Two Sum",
+  "source": "@site/docs/Interview_Preperation/Things_To_Remember.md",
+  "sourceDirName": "Interview_Preperation",
+  "slug": "/Interview_Preperation/Things_To_Remember",
+  "permalink": "/danieltjw-pf/docs/Interview_Preperation/Things_To_Remember",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Interview_Preperation/Things_To_Remember.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Notes on Algorithms",
+    "permalink": "/danieltjw-pf/docs/Interview_Preperation/Python_Algorithms_Notes"
+  },
+  "next": {
+    "title": "Markdown Syntax Guide",
+    "permalink": "/danieltjw-pf/docs/Markdown_Syntax_Guide"
+  }
+}

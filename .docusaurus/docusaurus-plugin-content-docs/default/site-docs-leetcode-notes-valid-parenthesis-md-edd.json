@@ -1,0 +1,24 @@
+{
+  "id": "Leetcode_Notes/Valid_Parenthesis",
+  "title": "Valid Parenthesis",
+  "description": "Hint",
+  "source": "@site/docs/Leetcode_Notes/Valid_Parenthesis.md",
+  "sourceDirName": "Leetcode_Notes",
+  "slug": "/Leetcode_Notes/Valid_Parenthesis",
+  "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Valid_Parenthesis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Leetcode_Notes/Valid_Parenthesis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Two Sum",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Two_Sum"
+  },
+  "next": {
+    "title": "Markdown Syntax Guide",
+    "permalink": "/danieltjw-pf/docs/Markdown_Syntax_Guide"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Leetcode_Notes/Two_Sum",
+  "title": "Two Sum",
+  "description": "Hint",
+  "source": "@site/docs/Leetcode_Notes/Two_Sum.md",
+  "sourceDirName": "Leetcode_Notes",
+  "slug": "/Leetcode_Notes/Two_Sum",
+  "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Two_Sum",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Leetcode_Notes/Two_Sum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LeetCode Notes",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Things_To_Remember"
+  },
+  "next": {
+    "title": "Valid Parenthesis",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Valid_Parenthesis"
+  }
+}

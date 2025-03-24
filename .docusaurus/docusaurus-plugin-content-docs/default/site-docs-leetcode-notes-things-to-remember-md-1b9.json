@@ -1,0 +1,24 @@
+{
+  "id": "Leetcode_Notes/Things_To_Remember",
+  "title": "LeetCode Notes",
+  "description": "Two Sum",
+  "source": "@site/docs/Leetcode_Notes/Things_To_Remember.md",
+  "sourceDirName": "Leetcode_Notes",
+  "slug": "/Leetcode_Notes/Things_To_Remember",
+  "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Things_To_Remember",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Leetcode_Notes/Things_To_Remember.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Leetcode Notes",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/"
+  },
+  "next": {
+    "title": "Two Sum",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Two_Sum"
+  }
+}

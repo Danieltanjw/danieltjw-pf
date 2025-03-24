@@ -1,0 +1,26 @@
+{
+  "id": "Leetcode_Notes/index",
+  "title": "Introduction",
+  "description": "This section will include the notes for Leetcode questions that I have completed.",
+  "source": "@site/docs/Leetcode_Notes/index.md",
+  "sourceDirName": "Leetcode_Notes",
+  "slug": "/Leetcode_Notes/",
+  "permalink": "/danieltjw-pf/docs/Leetcode_Notes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Danieltanjw/danieltjw-pf/docs/Leetcode_Notes/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Leetcode Notes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vectorized Algorithms",
+    "permalink": "/danieltjw-pf/docs/Basic_Programming_Languages/Python_Guide/Vectorized_Algorithms_Documentation"
+  },
+  "next": {
+    "title": "LeetCode Notes",
+    "permalink": "/danieltjw-pf/docs/Leetcode_Notes/Things_To_Remember"
+  }
+}
